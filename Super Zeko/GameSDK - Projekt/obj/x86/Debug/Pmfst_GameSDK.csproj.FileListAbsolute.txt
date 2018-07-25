@@ -1,0 +1,80 @@
+C:\Users\divna\Desktop\Santa v02\bin\Debug\Pmfst_GameSDK.exe.config
+C:\Users\divna\Desktop\Santa v02\bin\Debug\backgrounds\back.jpg
+C:\Users\divna\Desktop\Santa v02\bin\Debug\sprites\elf.png
+C:\Users\divna\Desktop\Santa v02\bin\Debug\sprites\fireCracker.png
+C:\Users\divna\Desktop\Santa v02\bin\Debug\sprites\gift.png
+C:\Users\divna\Desktop\Santa v02\bin\Debug\sprites\ginger.png
+C:\Users\divna\Desktop\Santa v02\bin\Debug\sprites\santa.png
+C:\Users\divna\Desktop\Santa v02\bin\Debug\Pmfst_GameSDK.XML
+C:\Users\divna\Desktop\Santa v02\bin\Debug\Pmfst_GameSDK.exe
+C:\Users\divna\Desktop\Santa v02\bin\Debug\Pmfst_GameSDK.pdb
+C:\Users\divna\Desktop\Santa v02\obj\x86\Debug\Pmfst_GameSDK.csprojResolveAssemblyReference.cache
+C:\Users\divna\Desktop\Santa v02\obj\x86\Debug\Pmfst_GameSDK.BGL.resources
+C:\Users\divna\Desktop\Santa v02\obj\x86\Debug\Pmfst_GameSDK.Properties.Resources.resources
+C:\Users\divna\Desktop\Santa v02\obj\x86\Debug\Pmfst_GameSDK.csproj.GenerateResource.Cache
+C:\Users\divna\Desktop\Santa v02\obj\x86\Debug\Pmfst_GameSDK.exe
+C:\Users\divna\Desktop\Santa v02\obj\x86\Debug\Pmfst_GameSDK.pdb
+C:\Users\divna\Desktop\Vjezba 09 - pocetno\bin\Debug\backgrounds\back.jpg
+C:\Users\divna\Desktop\Vjezba 09 - pocetno\bin\Debug\sprites\elf.png
+C:\Users\divna\Desktop\Vjezba 09 - pocetno\bin\Debug\sprites\fireCracker.png
+C:\Users\divna\Desktop\Vjezba 09 - pocetno\bin\Debug\sprites\gift.png
+C:\Users\divna\Desktop\Vjezba 09 - pocetno\bin\Debug\sprites\ginger.png
+C:\Users\divna\Desktop\Vjezba 09 - pocetno\bin\Debug\sprites\santa.png
+C:\Users\divna\Desktop\Vjezba 09 - pocetno\bin\Debug\Pmfst_GameSDK.exe.config
+C:\Users\divna\Desktop\Vjezba 09 - pocetno\bin\Debug\Pmfst_GameSDK.XML
+C:\Users\divna\Desktop\Vjezba 09 - pocetno\bin\Debug\Pmfst_GameSDK.exe
+C:\Users\divna\Desktop\Vjezba 09 - pocetno\bin\Debug\Pmfst_GameSDK.pdb
+C:\Users\divna\Desktop\Vjezba 09 - pocetno\obj\x86\Debug\Pmfst_GameSDK.BGL.resources
+C:\Users\divna\Desktop\Vjezba 09 - pocetno\obj\x86\Debug\Pmfst_GameSDK.Properties.Resources.resources
+C:\Users\divna\Desktop\Vjezba 09 - pocetno\obj\x86\Debug\Pmfst_GameSDK.csproj.GenerateResource.Cache
+C:\Users\divna\Desktop\Vjezba 09 - pocetno\obj\x86\Debug\Pmfst_GameSDK.exe
+C:\Users\divna\Desktop\Vjezba 09 - pocetno\obj\x86\Debug\Pmfst_GameSDK.pdb
+C:\Users\Jopa\Desktop\GameSDK - Projekt\bin\Debug\Pmfst_GameSDK.exe.config
+C:\Users\Jopa\Desktop\GameSDK - Projekt\bin\Debug\Pmfst_GameSDK.XML
+C:\Users\Jopa\Desktop\GameSDK - Projekt\obj\x86\Debug\Pmfst_GameSDK.exe
+C:\Users\Jopa\Desktop\GameSDK - Projekt\obj\x86\Debug\Pmfst_GameSDK.pdb
+C:\Users\Jopa\Desktop\GameSDK - Projekt\bin\Debug\sprites\riba.jpg
+C:\Users\Jopa\Desktop\GameSDK - Projekt\bin\Debug\sprites\cat2.gif
+C:\Users\Jopa\Desktop\GameSDK - Projekt\bin\Debug\sprites\parrot1-a.png
+C:\Users\Jopa\Desktop\GameSDK - Projekt\bin\Debug\sprites\spaceship.png
+C:\Users\Jopa\Desktop\GameSDK - Projekt\bin\Debug\backgrounds\bedroom.gif
+C:\Users\Jopa\Desktop\GameSDK - Projekt\bin\Debug\backgrounds\football.jpg
+C:\Users\Jopa\Desktop\GameSDK - Projekt\bin\Debug\backgrounds\forest.jpg
+C:\Users\Jopa\Desktop\GameSDK - Projekt\bin\Debug\backgrounds\woods.gif
+C:\Users\Jopa\Desktop\GameSDK - Projekt\bin\Debug\backgrounds\back.jpg
+C:\Users\Jopa\Desktop\GameSDK - Projekt\bin\Debug\sprites\elf.png
+C:\Users\Jopa\Desktop\GameSDK - Projekt\bin\Debug\sprites\fireCracker.png
+C:\Users\Jopa\Desktop\GameSDK - Projekt\bin\Debug\sprites\gift.png
+C:\Users\Jopa\Desktop\GameSDK - Projekt\bin\Debug\sprites\ginger.png
+C:\Users\Jopa\Desktop\GameSDK - Projekt\bin\Debug\sprites\santa.png
+C:\Users\Jopa\Desktop\GameSDK - Projekt\bin\Debug\Pmfst_GameSDK.exe
+C:\Users\Jopa\Desktop\GameSDK - Projekt\bin\Debug\Pmfst_GameSDK.pdb
+C:\Users\Jopa\Desktop\GameSDK - Projekt\obj\x86\Debug\Pmfst_GameSDK.csprojResolveAssemblyReference.cache
+C:\Users\Jopa\Desktop\GameSDK - Projekt\obj\x86\Debug\Pmfst_GameSDK.BGL.resources
+C:\Users\Jopa\Desktop\GameSDK - Projekt\obj\x86\Debug\Pmfst_GameSDK.Properties.Resources.resources
+C:\Users\Jopa\Desktop\GameSDK - Projekt\obj\x86\Debug\Pmfst_GameSDK.csproj.GenerateResource.Cache
+C:\Users\Jopa\Desktop\ne volin neorganiziran desktop\GameSDK - Projekt\bin\Debug\Pmfst_GameSDK.exe.config
+C:\Users\Jopa\Desktop\ne volin neorganiziran desktop\GameSDK - Projekt\bin\Debug\Pmfst_GameSDK.XML
+C:\Users\Jopa\Desktop\ne volin neorganiziran desktop\GameSDK - Projekt\obj\x86\Debug\Pmfst_GameSDK.exe
+C:\Users\Jopa\Desktop\ne volin neorganiziran desktop\GameSDK - Projekt\obj\x86\Debug\Pmfst_GameSDK.pdb
+C:\Users\Jopa\Desktop\ne volin neorganiziran desktop\GameSDK - Projekt\bin\Debug\sprites\riba.jpg
+C:\Users\Jopa\Desktop\ne volin neorganiziran desktop\GameSDK - Projekt\bin\Debug\sprites\cat2.gif
+C:\Users\Jopa\Desktop\ne volin neorganiziran desktop\GameSDK - Projekt\bin\Debug\sprites\parrot1-a.png
+C:\Users\Jopa\Desktop\ne volin neorganiziran desktop\GameSDK - Projekt\bin\Debug\sprites\spaceship.png
+C:\Users\Jopa\Desktop\ne volin neorganiziran desktop\GameSDK - Projekt\bin\Debug\backgrounds\bedroom.gif
+C:\Users\Jopa\Desktop\ne volin neorganiziran desktop\GameSDK - Projekt\bin\Debug\backgrounds\football.jpg
+C:\Users\Jopa\Desktop\ne volin neorganiziran desktop\GameSDK - Projekt\bin\Debug\backgrounds\forest.jpg
+C:\Users\Jopa\Desktop\ne volin neorganiziran desktop\GameSDK - Projekt\bin\Debug\backgrounds\woods.gif
+C:\Users\Jopa\Desktop\ne volin neorganiziran desktop\GameSDK - Projekt\bin\Debug\backgrounds\back.jpg
+C:\Users\Jopa\Desktop\ne volin neorganiziran desktop\GameSDK - Projekt\bin\Debug\sprites\elf.png
+C:\Users\Jopa\Desktop\ne volin neorganiziran desktop\GameSDK - Projekt\bin\Debug\sprites\fireCracker.png
+C:\Users\Jopa\Desktop\ne volin neorganiziran desktop\GameSDK - Projekt\bin\Debug\sprites\gift.png
+C:\Users\Jopa\Desktop\ne volin neorganiziran desktop\GameSDK - Projekt\bin\Debug\sprites\ginger.png
+C:\Users\Jopa\Desktop\ne volin neorganiziran desktop\GameSDK - Projekt\bin\Debug\sprites\santa.png
+C:\Users\Jopa\Desktop\ne volin neorganiziran desktop\GameSDK - Projekt\bin\Debug\Pmfst_GameSDK.exe
+C:\Users\Jopa\Desktop\ne volin neorganiziran desktop\GameSDK - Projekt\bin\Debug\Pmfst_GameSDK.pdb
+C:\Users\Jopa\Desktop\ne volin neorganiziran desktop\GameSDK - Projekt\obj\x86\Debug\Pmfst_GameSDK.csprojResolveAssemblyReference.cache
+C:\Users\Jopa\Desktop\ne volin neorganiziran desktop\GameSDK - Projekt\obj\x86\Debug\Pmfst_GameSDK.BGL.resources
+C:\Users\Jopa\Desktop\ne volin neorganiziran desktop\GameSDK - Projekt\obj\x86\Debug\Pmfst_GameSDK.Properties.Resources.resources
+C:\Users\Jopa\Desktop\ne volin neorganiziran desktop\GameSDK - Projekt\obj\x86\Debug\Pmfst_GameSDK.csproj.GenerateResource.Cache
+C:\Users\Jopa\Desktop\GameSDK - Projekt\obj\x86\Debug\Pmfst_GameSDK.UputeBox.resources
